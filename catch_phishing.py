@@ -17,55 +17,13 @@ import entropy
 log_suspicious = 'suspicious_domains.log'
 
 suspicious_keywords = [
-    'login',
-    'log-in',
-    'account',
-    'verification',
-    'verify',
-    'support',
-    'activity',
-    'security',
-    'update',
-    'authentication',
-    'authenticate',
-    'wallet',
-    'alert',
-    'purchase',
-    'transaction',
-    'recover',
-    'live',
-    'office'
+    'credit',
+    'karma'
     ]
 
 highly_suspicious = [
-    'paypal',
-    'paypol',
-    'poypal',
-    'twitter',
-    'appleid',
-    'gmail',
-    'outlook',
-    'protonmail',
-    'amazon',
-    'facebook',
-    'microsoft',
-    'windows',
-    'cgi-bin',
-    'localbitcoin',
-    'icloud',
-    'iforgot',
-    'isupport',
-    'kraken',
-    'bitstamp',
-    'bittrex',
-    'blockchain',
-    '.com-',
-    '-com.',
-    '.net-',
-    '.org-',
-    '.gov-',
-    '.gouv-',
-    '-gouv-'
+    'credit',
+    'karma',
     ]
 
 suspicious_tld = [
